@@ -72,3 +72,50 @@ Reflection
 Câu hỏi chưa có câu trả lời
 
 Liệu có thể xây dựng mô hình Machine Learning để dự đoán chính xác hành khách nào sẽ sống sót trên Titanic không?
+
+
+
+
+
+
+
+
+
+# Extra Learning Activities
+
+## 1. YouTube Video About Pandas / Data Exploration
+
+### Video
+Python Pandas Tutorial by freeCodeCamp
+
+### Điều học được
+Em học được cách sử dụng `groupby()` để phân tích dữ liệu theo từng nhóm khác nhau.  
+Ngoài ra video còn giải thích cách dùng `describe()` và `value_counts()` để khám phá dataset nhanh hơn.
+
+---
+
+# BONUS
+
+## 2. Kaggle Titanic Notebook
+
+### Notebook tham khảo
+Titanic Data Science Solutions trên Kaggle
+
+### 2 kỹ thuật mới học được
+
+1. Feature Engineering  
+Tạo thêm cột mới từ dữ liệu cũ, ví dụ tách title từ tên hành khách như Mr, Mrs, Miss.
+
+2. Filling Missing Values  
+Sử dụng median hoặc mean để điền dữ liệu thiếu thay vì xóa toàn bộ dòng.
+
+---
+
+## 3. Theo dõi người làm Data Science trên LinkedIn
+
+### Người theo dõi
+Andrew Ng
+
+### Lý do chọn
+Andrew Ng là một trong những người nổi tiếng nhất trong lĩnh vực AI và Data Science.  
+Ông chia sẻ nhiều kiến thức hữu ích về Machine Learning và định hướng nghề nghiệp cho người mới học.
