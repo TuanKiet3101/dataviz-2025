@@ -21,6 +21,8 @@ Repository này chứa các bài thực hành về Data Visualization và Data E
 - `pandas_cheatsheet.ipynb`
 - `learning_log.md`
 - `5function.md`
+- `foo.csv`
+- `foo.xlxs`
 
 ## Tác giả
 Tuan Kiet
